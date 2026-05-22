@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**bas3line/bas3line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Systems developer by day ☼ and infra builder by night ☾
 
-Here are some ideas to get you started:
+CTO / Lead Engineer at [routing.run](https://routing.run);<br>
+Building [UltraBalancer](https://ultrabalancer.com), a Rust HTTP load balancer;<br>
+Previously backend + DevOps at [MegaLLM](https://megallm.io);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.rs`, `.go`, `.py`, `.ts`, `.c`, `.cpp`, `.sql`, `.yaml`
+- 🧠 I'm mostly active around **LLM infra**, **routing systems**, and **backend platforms**
+- 🛠️ Built: [routing.run](https://routing.run), [UltraBalancer](https://ultrabalancer.com), model routing, billing, observability, and deployment infra
+- 💬 `ping` me about **Rust**, **Go**, **LLM gateways**, **load balancers**, **databases**, **DevOps**, and **systems design**
+
+[website](https://yshubham.com) · [work](https://yshubham.com/work-experience) · [x](https://x.com/bas3line) · [linkedin](https://www.linkedin.com/in/extractings/) · [telegram](https://t.me/kiraypoz)
