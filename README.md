@@ -1,16 +1,31 @@
-### Hello there 👋
+<div align="center">
 
-#### Systems developer by day ☼ and infra builder by night ☾
+<h3><code>bas3line@github ~ $ ./contributions.sh</code></h3>
 
-Software Engineer at [commandcode.ai](https://commandcode.ai);<br>
-Previously CTO / Lead Engineer at [routing.run](https://routing.run);<br>
-Building [UltraBalancer](https://ultrabalancer.com), a Rust HTTP load balancer;<br>
-Previously backend + DevOps at [MegaLLM](https://megallm.io);<br>
+<img src="./contrib-heatmap.svg" width="860" alt="bas3line's GitHub contribution graph, refreshed daily" />
 
-- ⚙️ I use daily: `.rs`, `.go`, `.py`, `.ts`, `.c`, `.cpp`, `.sql`, `.yaml`
-- 🧠 I'm mostly active around **LLM infra**, **routing systems**, **backend platforms**, and **DevOps**
-- 🛠️ Built: [routing.run](https://routing.run), [UltraBalancer](https://ultrabalancer.com), model routing, billing, observability, and deployment infra
-- 🔒 I also work around **sandboxes**, **honeypots**, **security tooling**, and **Linux infra**
-- 💬 `ping` me about **Rust**, **Go**, **LLM gateways**, **load balancers**, **databases**, **DevOps**, and **systems design**
+<br>
+<br>
 
-[website](https://yshubham.com) · [work](https://yshubham.com/work/) · [x](https://x.com/inlovewithgo) · [linkedin](https://www.linkedin.com/in/extractings/) · [telegram](https://t.me/kiraypoz)
+<h3><code>bas3line@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./bas3line-ascii.svg" width="370" alt="bas3line ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Systems developer profile, stack, and projects" /></td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>bas3line@github ~ $ ./connect.sh</code></h3>
+
+<p><b>Systems developer by day &middot; infra builder by night</b></p>
+
+[![Website](https://img.shields.io/badge/Website-yshubham.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yshubham.com)
+[![Work](https://img.shields.io/badge/Selected-Work-161b22?style=for-the-badge&logo=github&logoColor=white)](https://yshubham.com/work/)
+[![X](https://img.shields.io/badge/X-inlovewithgo-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/inlovewithgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-extractings-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/extractings/)
+[![Telegram](https://img.shields.io/badge/Telegram-kiraypoz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kiraypoz)
+
+</div>
