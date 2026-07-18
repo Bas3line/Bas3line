@@ -1,31 +1,34 @@
-<div align="center">
+# hey, i'm shubham
 
-<h3><code>bas3line@github ~ $ ./contributions.sh</code></h3>
+i also go by **kira**. i'm a systems engineer from jaipur, india.
 
-<img src="./contrib-heatmap.svg" width="860" alt="bas3line's GitHub contribution graph, refreshed daily" />
+i build fast backend systems, llm infrastructure, low-level tooling, and the infrastructure that keeps them alive in production.
 
-<br>
-<br>
+## work
 
-<h3><code>bas3line@github ~ $ whoami</code></h3>
+- software engineer at [commandcode.ai](https://commandcode.ai), working on inference infrastructure, deployments, observability, and devops
+- previously co-founder & cto at [routing.run](https://routing.run), where i built an llm api gateway with multi-provider routing, fallbacks, auth, billing, and health monitoring; the company was later acquired
+- previously senior software engineer at [MegaLLM](https://megallm.io), working across ai routing, backend platforms, macos, fine-tuning pipelines, and ci/cd
+- previously backend & devops engineer at [DynTech](https://enigma.ws) and backend developer at [Groot Music](https://grootbot.pro)
 
-<table>
-<tr>
-<td valign="top"><img src="./bas3line-ascii.svg" width="370" alt="bas3line ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Systems developer profile, stack, and projects" /></td>
-</tr>
-</table>
+more details at [yshubham.com/work](https://yshubham.com/work/).
 
-<br>
+## things i've built
 
-<h3><code>bas3line@github ~ $ ./connect.sh</code></h3>
+- [UltraBalancer](https://ultrabalancer.com) - a production-grade rust http/2 load balancer
+- [aigit](https://github.com/bas3line/aigit) - an ai-native git client
+- [sandbox-runtime](https://github.com/bas3line/sandbox-runtime) - a linux sandbox for untrusted code
+- [honeypot](https://github.com/bas3line/honeypot) - an ssh honeypot for cybersecurity training
+- [nexus-pipeline](https://github.com/bas3line/nexus-pipeline) - lightweight ci/cd orchestration
 
-<p><b>Systems developer by day &middot; infra builder by night</b></p>
+most days i'm somewhere around rust, go, python, typescript, linux, postgresql, redis, docker, kubernetes, grafana, and prometheus.
 
-[![Website](https://img.shields.io/badge/Website-yshubham.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yshubham.com)
-[![Work](https://img.shields.io/badge/Selected-Work-161b22?style=for-the-badge&logo=github&logoColor=white)](https://yshubham.com/work/)
-[![X](https://img.shields.io/badge/X-inlovewithgo-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/inlovewithgo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-extractings-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/extractings/)
-[![Telegram](https://img.shields.io/badge/Telegram-kiraypoz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kiraypoz)
+## outside code
 
-</div>
+i love reading and collecting manga, manhwa, comics, and novels. i'm currently reading **Bakuman**, **Kagurabachi**, and **Bleach**. the shelf also includes complete runs of **Naruto**, **Death Note**, **Solo Leveling**, **The Boys**, and **Invincible**.
+
+see the collection and what i'm reading next at [yshubham.com/manga](https://yshubham.com/manga/).
+
+## links
+
+[website](https://yshubham.com) · [work](https://yshubham.com/work/) · [manga shelf](https://yshubham.com/manga/) · [x](https://x.com/inlovewithgo) · [linkedin](https://www.linkedin.com/in/extractings/) · [email](mailto:hi@ykira.com)
