@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Shubham Kira — systems, infrastructure, inference</title>
+  <desc id="description">An editorial systems diagram in the visual language of yshubham.com.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ddd8ce" stroke-width="1" opacity=".33"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" fill="#faf9f5"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M0 1H1200M0 359H1200" stroke="#ddd8ce"/>
+
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="13">
+    <text x="72" y="62" fill="#746f67">/ shubham kira</text>
+    <circle cx="1015" cy="58" r="4" fill="#0757b8"/>
+    <text x="1027" y="63" fill="#746f67">jaipur / ist</text>
+  </g>
+
+  <g font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-weight="600" fill="#282622" letter-spacing="-2.2">
+    <text x="70" y="139" font-size="57">systems,</text>
+    <text x="70" y="204" font-size="57">infrastructure,</text>
+    <text x="70" y="269" font-size="57">inference.</text>
+  </g>
+  <path d="M70 282H334" stroke="#0757b8" stroke-width="3"/>
+  <text x="72" y="319" fill="#68645d" font-family="Georgia,Times New Roman,serif" font-size="17">building the machinery behind production software</text>
+
+  <g transform="translate(606 76)" fill="none" stroke-linejoin="round">
+    <path d="M76 28H210M250 28H368M408 28H492M76 184H168M208 184H326M366 184H492" stroke="#ddd8ce" stroke-width="1.5"/>
+    <path d="M76 28V184M492 28V184" stroke="#ddd8ce" stroke-width="1.5"/>
+
+    <g stroke="#282622" stroke-width="1.5" fill="#faf9f5">
+      <rect x="168" y="2" width="82" height="52"/>
+      <rect x="326" y="2" width="82" height="52"/>
+      <rect x="126" y="82" width="126" height="64"/>
+      <rect x="324" y="82" width="126" height="64"/>
+      <rect x="168" y="158" width="40" height="52"/>
+      <rect x="326" y="158" width="40" height="52"/>
+    </g>
+
+    <g stroke="#0757b8" stroke-width="2">
+      <path d="M250 28H326"/>
+      <path d="M210 54V82"/>
+      <path d="M367 54V82"/>
+      <path d="M252 114H324"/>
+      <path d="M189 146V158"/>
+      <path d="M345 146V158"/>
+    </g>
+
+    <g fill="#0757b8" stroke="none">
+      <circle cx="288" cy="28" r="5"/>
+      <circle cx="288" cy="114" r="5"/>
+      <circle cx="210" cy="68" r="4"/>
+      <circle cx="367" cy="68" r="4"/>
+    </g>
+
+    <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" fill="#68645d" stroke="none" text-anchor="middle">
+      <text x="209" y="33">request</text>
+      <text x="367" y="33">gateway</text>
+      <text x="189" y="110">policy</text>
+      <text x="387" y="110">router</text>
+      <text x="188" y="189">cpu</text>
+      <text x="345" y="189">gpu</text>
+    </g>
+
+    <g stroke="#282622" stroke-width="1.25">
+      <circle cx="76" cy="28" r="8" fill="#faf9f5"/>
+      <circle cx="492" cy="28" r="8" fill="#faf9f5"/>
+      <circle cx="76" cy="184" r="8" fill="#faf9f5"/>
+      <circle cx="492" cy="184" r="8" fill="#faf9f5"/>
+    </g>
+    <circle cx="492" cy="184" r="3" fill="#0757b8" stroke="none"/>
+  </g>
+
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" fill="#746f67">
+    <text x="894" y="321">yshubham.com</text>
+    <text x="1075" y="321">01 / public</text>
+  </g>
+</svg>
