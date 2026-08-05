@@ -6,7 +6,7 @@ i also go by **kira**. i'm a systems engineer from jaipur, india.
 
 - software engineer at [commandcode.ai](https://commandcode.ai), working on inference infrastructure, deployments, observability, gpu systems, and devops
 - previously co-founder & cto at [routing.run](https://routing.run), where i built an llm api gateway with multi-provider routing, fallbacks, authentication, billing, and provider health monitoring; the company was later acquired
-- previously senior software engineer at [MegaLLM](https://megallm.io), working across ai routing, backend platforms, macos, fine-tuning pipelines, and ci/cd
+- previously founding member & engineer at [MegaLLM](https://megallm.io), working across ai routing, backend platforms, macos, fine-tuning pipelines, and ci/cd
 - previously backend & devops engineer at [DynTech](https://enigma.ws) and backend developer at [Groot Music](https://grootbot.pro)
 
 more details at [yshubham.com/work](https://yshubham.com/work/).
