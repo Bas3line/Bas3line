@@ -41,7 +41,7 @@ previously:
 
 <img src="assets/chips/megallm.svg" width="14" alt=""> **[MegaLLM](https://megallm.io)** · founding member & senior software engineer — a swift macos app with system-level integrations, a multi-tenant reseller platform, go and typescript routing backends, lora training workflows, jenkins release pipelines.
 
-<img src="assets/chips/dyntech.svg" width="14" alt=""> **[DynTech](https://enigma.ws)** · software engineer — auth and subscription systems for a copy-trading platform, plus the jenkins/docker deployment path.
+<img src="assets/chips/dyntech.svg" width="14" alt=""> **[DynTech](https://enigma.ws)** · software engineer — built a copy-trading system across platforms like Sterling and MT5, plus auth, subscriptions, and the jenkins/docker deployment path.
 
 <img src="assets/chips/groot.svg" width="14" alt=""> **[Groot Music](https://grootbot.pro)** · software engineer — scaled the backend of a high-traffic discord music bot across thousands of servers.
 
