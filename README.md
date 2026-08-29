@@ -69,7 +69,7 @@ the full timeline lives at <img src="assets/chips/yshubham.svg" width="14" alt="
 
 ## public edge
 
-<a href="https://status.yshubham.com/"><img src="https://status.yshubham.com/badge.svg" alt="live latency for git, docs, forge, registry, trace, and objects"></a>
+<a href="https://status.yshubham.com/"><img src="https://status.yshubham.com/badge.svg?v=1" alt="live latency for git, docs, forge, registry, trace, and objects"></a>
 
 [git](https://git.yshubham.com/) · [docs](https://docs.yshubham.com) · [status](https://status.yshubham.com) · [trace](https://trace.yshubham.com) · [objects](https://objects.yshubham.com/) · [registry](https://tools.yshubham.com)
 
