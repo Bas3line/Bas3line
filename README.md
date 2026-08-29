@@ -22,57 +22,74 @@
 </p>
 
 <p align="center">
-  <a href="https://yshubham.com"><img src="assets/pfp.jpg" width="14" alt=""> website</a> ·
-  <a href="https://yshubham.com/work/"><img src="assets/pfp.jpg" width="14" alt=""> work</a> ·
-  <a href="https://yshubham.com/blog/"><img src="assets/pfp.jpg" width="14" alt=""> writing</a> ·
-  <a href="https://yshubham.com/tools/"><img src="assets/pfp.jpg" width="14" alt=""> tools</a> ·
-  <a href="https://git.yshubham.com/"><img src="assets/pfp.jpg" width="14" alt=""> git</a> ·
-  <a href="https://yshubham.com/manga/"><img src="assets/pfp.jpg" width="14" alt=""> shelf</a> ·
-  <a href="https://yshubham.com/shubham.json"><img src="assets/pfp.jpg" width="14" alt=""> shubham.json</a>
+  <a href="https://yshubham.com"><img src="assets/chips/yshubham.svg" width="14" alt=""> website</a> ·
+  <a href="https://yshubham.com/work/"><img src="assets/chips/yshubham.svg" width="14" alt=""> work</a> ·
+  <a href="https://yshubham.com/blog/"><img src="assets/chips/yshubham.svg" width="14" alt=""> writing</a> ·
+  <a href="https://yshubham.com/tools/"><img src="assets/chips/yshubham.svg" width="14" alt=""> tools</a> ·
+  <a href="https://git.yshubham.com/"><img src="assets/chips/yshubham.svg" width="14" alt=""> git</a> ·
+  <a href="https://yshubham.com/manga/"><img src="assets/chips/yshubham.svg" width="14" alt=""> shelf</a> ·
+  <a href="https://yshubham.com/shubham.json"><img src="assets/chips/yshubham.svg" width="14" alt=""> shubham.json</a>
 </p>
 
 ---
 
 ## work
 
-**software engineer** at **[commandcode.ai](https://commandcode.ai)** · jun 2026 — present
+<img src="assets/chips/commandcode.svg" width="14" alt=""> **[commandcode.ai](https://commandcode.ai)** · software engineer · jun 2026 — present
 
 inference infrastructure and devops for production ai systems — high-throughput apis, gpu fleet reliability, deployments, observability, and safe release paths.
 
 previously:
 
-| | role | what i did |
-|---|---|---|
-| **[routing.run](https://routing.run)** | co-founder & cto | built an llm api gateway from scratch — multi-provider routing, fallback, auth, billing, provider health. ran it through acquisition and handover. |
-| **[MegaLLM](https://megallm.io)** | founding member & senior software engineer | a swift macos app with system-level integrations, a multi-tenant reseller platform, go and typescript routing backends, lora training workflows, jenkins release pipelines. |
-| **[DynTech](https://enigma.ws)** | software engineer | auth and subscription systems for a copy-trading platform, plus the jenkins/docker deployment path. |
-| **[Groot Music](https://grootbot.pro)** | software engineer | scaled the backend of a high-traffic discord music bot across thousands of servers. |
-| **MemePay** | cto | a solana trading product across frontend, backend, and deployment. |
-| **Meds Reminder** | backend developer | apis and data handling for medication reminders and scheduling. |
+<img src="assets/chips/routing.svg" width="14" alt=""> **[routing.run](https://routing.run)** · co-founder & cto — built an llm api gateway from scratch: multi-provider routing, fallback, auth, billing, provider health. ran it through acquisition and handover.
 
-the full timeline lives at **[yshubham.com/work](https://yshubham.com/work/)**.
+<img src="assets/chips/megallm.svg" width="14" alt=""> **[MegaLLM](https://megallm.io)** · founding member & senior software engineer — a swift macos app with system-level integrations, a multi-tenant reseller platform, go and typescript routing backends, lora training workflows, jenkins release pipelines.
+
+<img src="assets/chips/dyntech.svg" width="14" alt=""> **[DynTech](https://enigma.ws)** · software engineer — auth and subscription systems for a copy-trading platform, plus the jenkins/docker deployment path.
+
+<img src="assets/chips/groot.svg" width="14" alt=""> **[Groot Music](https://grootbot.pro)** · software engineer — scaled the backend of a high-traffic discord music bot across thousands of servers.
+
+**MemePay** · cto — a solana trading product across frontend, backend, and deployment.
+
+**Meds Reminder** · backend developer — apis and data handling for medication reminders and scheduling.
+
+the full timeline lives at <img src="assets/chips/yshubham.svg" width="14" alt=""> **[yshubham.com/work](https://yshubham.com/work/)**.
 
 ## projects
 
-| | stack | what it is |
-|---|---|---|
-| **[routing.run](https://routing.run)** | python · fastapi · postgresql · redis | a stable openai-compatible endpoint over a model market that changes every week — [case study](https://yshubham.com/work/routing-run/) |
-| **[Sandbox](https://github.com/bas3line/sandbox)** | rust · postgresql · nats · docker | disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt — [docs](https://docs.yshubham.com/v2/products/sandbox) |
-| **[Watchman](https://github.com/bas3line/watchman)** | rust | an operator's lens for gpu inference servers: inspect, benchmark, and catch trouble before users do — [docs](https://docs.yshubham.com/v2/products/watchman) |
-| **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** | rust · tokio · http/2 | a small, inspectable http/2 data path built to stay fast when connection counts stop being friendly — [case study](https://yshubham.com/work/ultrabalancer/) |
-| **[Context Bridge](https://github.com/bas3line/Context-Bridge)** | rust | moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable — [docs](https://docs.yshubham.com/v2/context-bridge/overview) |
-| **[Honeypot](https://github.com/bas3line/honeypot)** | rust | an ssh honeypot for cybersecurity training and attack-surface observation |
+<img src="assets/chips/routing.svg" width="14" alt=""> **[routing.run](https://routing.run)** · python · fastapi · postgresql · redis
+a stable openai-compatible endpoint over a model market that changes every week — <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/routing-run/)
+
+<img src="assets/chips/github.svg" width="14" alt=""> **[Sandbox](https://github.com/bas3line/sandbox)** · rust · postgresql · nats · docker
+disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/sandbox)
+
+<img src="assets/chips/github.svg" width="14" alt=""> **[Watchman](https://github.com/bas3line/watchman)** · rust
+an operator's lens for gpu inference servers: inspect, benchmark, and catch trouble before users do — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/watchman)
+
+<img src="assets/chips/github.svg" width="14" alt=""> **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** · rust · tokio · http/2
+a small, inspectable http/2 data path built to stay fast when connection counts stop being friendly — <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/ultrabalancer/)
+
+<img src="assets/chips/github.svg" width="14" alt=""> **[Context Bridge](https://github.com/bas3line/Context-Bridge)** · rust
+moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/context-bridge/overview)
+
+<img src="assets/chips/github.svg" width="14" alt=""> **[Honeypot](https://github.com/bas3line/honeypot)** · rust
+an ssh honeypot for cybersecurity training and attack-surface observation
 
 ## things i run
 
 self-hosted, and public if you want to poke at them:
 
-- **[git.yshubham.com](https://git.yshubham.com/)** — forgejo mirror of my repos, resynced every two minutes
-- **[docs.yshubham.com](https://docs.yshubham.com)** — tool docs, agent skills, and mcp setup
-- **[status.yshubham.com](https://status.yshubham.com)** — live health checks and incident notes
-- **[trace.yshubham.com](https://trace.yshubham.com)** — browser-side https endpoint probe and request-path map
-- **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
-- **[saucer.sh](https://saucer.sh)** — invite-only file sharing: put a file on the web from your terminal or your browser, at a link you control
+<img src="assets/chips/yshubham.svg" width="14" alt=""> **[git.yshubham.com](https://git.yshubham.com/)** — forgejo mirror of my repos, resynced every two minutes
+
+<img src="assets/chips/yshubham.svg" width="14" alt=""> **[docs.yshubham.com](https://docs.yshubham.com)** — tool docs, agent skills, and mcp setup
+
+<img src="assets/chips/yshubham.svg" width="14" alt=""> **[status.yshubham.com](https://status.yshubham.com)** — live health checks and incident notes
+
+<img src="assets/chips/yshubham.svg" width="14" alt=""> **[trace.yshubham.com](https://trace.yshubham.com)** — browser-side https endpoint probe and request-path map
+
+<img src="assets/chips/yshubham.svg" width="14" alt=""> **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
+
+<img src="assets/chips/saucer.svg" width="14" alt=""> **[saucer.sh](https://saucer.sh)** — a free file drop: put a file on the web from your terminal or your browser, at a link you control
 
 ## skills
 
