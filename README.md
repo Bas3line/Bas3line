@@ -33,7 +33,7 @@
 
 <img src="assets/chips/commandcode.svg" width="14" alt=""> **[commandcode.ai](https://commandcode.ai)** · software engineer · jun 2026 — present
 
-inference infrastructure and devops for production ai systems — high-throughput apis, gpu fleet reliability, deployments, observability, and safe release paths.
+inference devops for production systems — deployments, observability, and tui work.
 
 previously:
 
