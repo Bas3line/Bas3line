@@ -65,21 +65,13 @@ the full timeline lives at <img src="assets/chips/yshubham.svg" width="14" alt="
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[Honeypot](https://github.com/bas3line/honeypot)** · rust — an ssh honeypot for cybersecurity training and attack-surface observation
 
-## things i run
+<img src="assets/icons/saucer.svg" width="14" alt=""> **[saucer.sh](https://saucer.sh)** · file drop — put a file on the web from your terminal or your browser, at a link you control
 
-self-hosted, and public if you want to poke at them:
+## public edge
 
-<img src="assets/chips/yshubham.svg" width="14" alt=""> **[git.yshubham.com](https://git.yshubham.com/)** — forgejo mirror of my repos, resynced every two minutes
+<a href="https://status.yshubham.com/"><img src="https://status.yshubham.com/badge.svg" alt="live latency for git, docs, forge, registry, trace, and objects"></a>
 
-<img src="assets/chips/yshubham.svg" width="14" alt=""> **[docs.yshubham.com](https://docs.yshubham.com)** — tool docs, agent skills, and mcp setup
-
-<img src="assets/chips/yshubham.svg" width="14" alt=""> **[status.yshubham.com](https://status.yshubham.com)** — live health checks and incident notes
-
-<img src="assets/chips/yshubham.svg" width="14" alt=""> **[trace.yshubham.com](https://trace.yshubham.com)** — browser-side https endpoint probe and request-path map
-
-<img src="assets/chips/yshubham.svg" width="14" alt=""> **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
-
-<img src="assets/icons/saucer.svg" width="14" alt=""> **[saucer.sh](https://saucer.sh)** — a free file drop: put a file on the web from your terminal or your browser, at a link you control
+[git](https://git.yshubham.com/) · [docs](https://docs.yshubham.com) · [status](https://status.yshubham.com) · [trace](https://trace.yshubham.com) · [objects](https://objects.yshubham.com/) · [registry](https://tools.yshubham.com)
 
 ## skills
 
