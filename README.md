@@ -57,23 +57,17 @@ the full timeline lives at <img src="assets/chips/yshubham.svg" width="14" alt="
 
 ## projects
 
-<img src="assets/chips/routing.svg" width="14" alt=""> **[routing.run](https://routing.run)** · python · fastapi · postgresql · redis<br>
-a stable openai-compatible endpoint over a model market that changes every week — <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/routing-run/)
+<img src="assets/chips/routing.svg" width="14" alt=""> **[routing.run](https://routing.run)** · python · fastapi · postgresql · redis — a stable openai-compatible endpoint over a model market that changes every week · <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/routing-run/)
 
-<img src="assets/chips/github.svg" width="14" alt=""> **[Sandbox](https://github.com/bas3line/sandbox)** · rust · postgresql · nats · docker<br>
-disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/sandbox)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[Sandbox](https://github.com/bas3line/sandbox)** · rust · postgresql · nats · docker — disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt · <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/sandbox)
 
-<img src="assets/chips/github.svg" width="14" alt=""> **[Watchman](https://github.com/bas3line/watchman)** · rust<br>
-an operator's lens for gpu inference servers: inspect, benchmark, and catch trouble before users do — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/watchman)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[Watchman](https://github.com/bas3line/watchman)** · rust — an operator's lens for gpu inference servers: inspect, benchmark, and catch trouble before users do · <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/products/watchman)
 
-<img src="assets/chips/github.svg" width="14" alt=""> **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** · rust · tokio · http/2<br>
-a small, inspectable http/2 data path built to stay fast when connection counts stop being friendly — <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/ultrabalancer/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** · rust · tokio · http/2 — a small, inspectable http/2 data path built to stay fast when connection counts stop being friendly · <img src="assets/chips/yshubham.svg" width="14" alt=""> [case study](https://yshubham.com/work/ultrabalancer/)
 
-<img src="assets/chips/github.svg" width="14" alt=""> **[Context Bridge](https://github.com/bas3line/Context-Bridge)** · rust<br>
-moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable — <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/context-bridge/overview)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[Context Bridge](https://github.com/bas3line/Context-Bridge)** · rust — moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable · <img src="assets/chips/yshubham.svg" width="14" alt=""> [docs](https://docs.yshubham.com/v2/context-bridge/overview)
 
-<img src="assets/chips/github.svg" width="14" alt=""> **[Honeypot](https://github.com/bas3line/honeypot)** · rust<br>
-an ssh honeypot for cybersecurity training and attack-surface observation
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="14" alt=""></picture> **[Honeypot](https://github.com/bas3line/honeypot)** · rust — an ssh honeypot for cybersecurity training and attack-surface observation
 
 ## things i run
 
@@ -89,7 +83,7 @@ self-hosted, and public if you want to poke at them:
 
 <img src="assets/chips/yshubham.svg" width="14" alt=""> **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
 
-<img src="assets/chips/saucer.svg" width="14" alt=""> **[saucer.sh](https://saucer.sh)** — a free file drop: put a file on the web from your terminal or your browser, at a link you control
+<img src="assets/icons/saucer.svg" width="14" alt=""> **[saucer.sh](https://saucer.sh)** — a free file drop: put a file on the web from your terminal or your browser, at a link you control
 
 ## skills
 
