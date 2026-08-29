@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/pfp.jpg" width="112" alt="">
-</p>
-
 <h1 align="center">hey, i'm shubham</h1>
 
 <p align="center">
