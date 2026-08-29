@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mark.svg" width="76" alt="">
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/mark.svg" width="76" alt="">
 </p>
 
 <h1 align="center">hey, i'm shubham</h1>
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bas3line" title="github"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"><img src="assets/icons/github.svg" width="22" alt="github"></picture></a>
+  <a href="https://github.com/bas3line" title="github"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/github-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/github.svg" width="22" alt="github"></picture></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/inlovewithgo" title="x"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg"><img src="assets/icons/x.svg" width="22" alt="x"></picture></a>
+  <a href="https://x.com/inlovewithgo" title="x"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/x-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/x.svg" width="22" alt="x"></picture></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/extractings/" title="linkedin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg"><img src="assets/icons/linkedin.svg" width="22" alt="linkedin"></picture></a>
+  <a href="https://www.linkedin.com/in/extractings/" title="linkedin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/linkedin-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/linkedin.svg" width="22" alt="linkedin"></picture></a>
   &nbsp;&nbsp;
-  <a href="mailto:hi@yshubham.com" title="hi@yshubham.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mail-dark.svg"><img src="assets/icons/mail.svg" width="22" alt="email"></picture></a>
+  <a href="mailto:hi@yshubham.com" title="hi@yshubham.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/mail-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/mail.svg" width="22" alt="email"></picture></a>
   &nbsp;&nbsp;
-  <a href="https://cal.com/shubhamyadav" title="book a call"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/calendar-dark.svg"><img src="assets/icons/calendar.svg" width="22" alt="book a call"></picture></a>
+  <a href="https://cal.com/shubhamyadav" title="book a call"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/calendar-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/icons/calendar.svg" width="22" alt="book a call"></picture></a>
 </p>
 
 <p align="center">
@@ -56,68 +56,68 @@ the full timeline lives at **[yshubham.com/work](https://yshubham.com/work/)**.
 
 | | | what it is |
 |---|---|---|
-| <img src="assets/tech/python.svg" width="20" alt="Python"> | **[routing.run](https://routing.run)** | a stable openai-compatible endpoint over a model market that changes every week |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** | a production-grade http/2 load balancer, built to stay fast when connection counts stop being friendly |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Sandbox](https://github.com/bas3line/sandbox)** | disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Watchman](https://github.com/bas3line/watchman)** | an operator's lens for gpu inference servers — inspect, benchmark, and catch trouble before users do |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Context Bridge](https://github.com/bas3line/Context-Bridge)** | moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Honeypot](https://github.com/bas3line/honeypot)** | an ssh honeypot for cybersecurity training |
+| <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/python.svg" width="20" alt="Python"> | **[routing.run](https://routing.run)** | a stable openai-compatible endpoint over a model market that changes every week |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[UltraBalancer](https://github.com/bas3line/ultrabalancer)** | a production-grade http/2 load balancer, built to stay fast when connection counts stop being friendly |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Sandbox](https://github.com/bas3line/sandbox)** | disposable coding environments for humans and agents, with policy enforced by the server instead of the prompt |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Watchman](https://github.com/bas3line/watchman)** | an operator's lens for gpu inference servers — inspect, benchmark, and catch trouble before users do |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Context Bridge](https://github.com/bas3line/Context-Bridge)** | moves coding-session context between opencode, claude code, and codex without pretending hidden model state is portable |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="20" alt="Rust"></picture> | **[Honeypot](https://github.com/bas3line/honeypot)** | an ssh honeypot for cybersecurity training |
 
 ## things i run
 
 self-hosted, and public if you want to poke at them:
 
-- <img src="assets/tech/cloudflare.svg" width="16" alt=""> **[git.yshubham.com](https://git.yshubham.com/)** — forgejo mirror of my repos, resynced every two minutes
-- <img src="assets/tech/cloudflare.svg" width="16" alt=""> **[docs.yshubham.com](https://docs.yshubham.com)** — tool docs, agent skills, and mcp setup
-- <img src="assets/tech/cloudflare.svg" width="16" alt=""> **[status.yshubham.com](https://status.yshubham.com)** — live health checks and incident notes
-- <img src="assets/tech/cloudflare.svg" width="16" alt=""> **[trace.yshubham.com](https://trace.yshubham.com)** — browser-side https endpoint probe and request-path map
-- <img src="assets/tech/cloudflare.svg" width="16" alt=""> **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
+- **[git.yshubham.com](https://git.yshubham.com/)** — forgejo mirror of my repos, resynced every two minutes
+- **[docs.yshubham.com](https://docs.yshubham.com)** — tool docs, agent skills, and mcp setup
+- **[status.yshubham.com](https://status.yshubham.com)** — live health checks and incident notes
+- **[trace.yshubham.com](https://trace.yshubham.com)** — browser-side https endpoint probe and request-path map
+- **[objects.yshubham.com](https://objects.yshubham.com/)** — screened, expiring public object storage on r2 + queues
 
 ## stack
 
 **languages**
 
 <p>
-  <img src="assets/tech/go.svg" width="34" title="Go" alt="Go">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/rust-dark.svg"><img src="assets/tech/rust.svg" width="34" title="Rust" alt="Rust"></picture>&nbsp;&nbsp;
-  <img src="assets/tech/python.svg" width="34" title="Python" alt="Python">&nbsp;&nbsp;
-  <img src="assets/tech/typescript.svg" width="34" title="TypeScript" alt="TypeScript">&nbsp;&nbsp;
-  <img src="assets/tech/zig.svg" width="34" title="Zig" alt="Zig">&nbsp;&nbsp;
-  <img src="assets/tech/swift.svg" width="34" title="Swift" alt="Swift">
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/go.svg" width="34" title="Go" alt="Go">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/rust.svg" width="34" title="Rust" alt="Rust"></picture>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/python.svg" width="34" title="Python" alt="Python">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/typescript.svg" width="34" title="TypeScript" alt="TypeScript">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/zig.svg" width="34" title="Zig" alt="Zig">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/swift.svg" width="34" title="Swift" alt="Swift">
 </p>
 
 **inference &amp; gpu**
 
 <p>
-  <img src="assets/tech/nvidia.svg" width="34" title="NVIDIA CUDA" alt="CUDA">&nbsp;&nbsp;
-  <img src="assets/tech/vllm.svg" width="34" title="vLLM" alt="vLLM">&nbsp;&nbsp;
-  <img src="assets/tech/pytorch.svg" width="34" title="PyTorch" alt="PyTorch">
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/nvidia.svg" width="34" title="NVIDIA CUDA" alt="CUDA">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/vllm.svg" width="34" title="vLLM" alt="vLLM">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/pytorch.svg" width="34" title="PyTorch" alt="PyTorch">
 </p>
 
 **infrastructure**
 
 <p>
-  <img src="assets/tech/docker.svg" width="34" title="Docker" alt="Docker">&nbsp;&nbsp;
-  <img src="assets/tech/kubernetes.svg" width="34" title="Kubernetes" alt="Kubernetes">&nbsp;&nbsp;
-  <img src="assets/tech/terraform.svg" width="34" title="Terraform" alt="Terraform">&nbsp;&nbsp;
-  <img src="assets/tech/cloudflare.svg" width="34" title="Cloudflare" alt="Cloudflare">&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech/linux-dark.svg"><img src="assets/tech/linux.svg" width="34" title="Linux" alt="Linux"></picture>
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/docker.svg" width="34" title="Docker" alt="Docker">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/kubernetes.svg" width="34" title="Kubernetes" alt="Kubernetes">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/terraform.svg" width="34" title="Terraform" alt="Terraform">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/cloudflare.svg" width="34" title="Cloudflare" alt="Cloudflare">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/linux-dark.svg"><img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/linux.svg" width="34" title="Linux" alt="Linux"></picture>
 </p>
 
 **data &amp; messaging**
 
 <p>
-  <img src="assets/tech/postgresql.svg" width="34" title="PostgreSQL" alt="PostgreSQL">&nbsp;&nbsp;
-  <img src="assets/tech/clickhouse.svg" width="34" title="ClickHouse" alt="ClickHouse">&nbsp;&nbsp;
-  <img src="assets/tech/redis.svg" width="34" title="Redis" alt="Redis">&nbsp;&nbsp;
-  <img src="assets/tech/nats.svg" width="34" title="NATS" alt="NATS">
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/postgresql.svg" width="34" title="PostgreSQL" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/clickhouse.svg" width="34" title="ClickHouse" alt="ClickHouse">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/redis.svg" width="34" title="Redis" alt="Redis">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/nats.svg" width="34" title="NATS" alt="NATS">
 </p>
 
 **observability**
 
 <p>
-  <img src="assets/tech/grafana.svg" width="34" title="Grafana" alt="Grafana">&nbsp;&nbsp;
-  <img src="assets/tech/prometheus.svg" width="34" title="Prometheus" alt="Prometheus">
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/grafana.svg" width="34" title="Grafana" alt="Grafana">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/bas3line/bas3line/main/assets/tech/prometheus.svg" width="34" title="Prometheus" alt="Prometheus">
 </p>
 
 ## outside code
